@@ -2,7 +2,7 @@
 Final project code is in the image segmentation.ipynb; 
 Paper is in the COMP_562_Final_Project.pdf.
 
-Description
+Description: 
 Image segmentation aims to simplify and/or
 change the representation of an image into
 something that is more meaningful and easier to
